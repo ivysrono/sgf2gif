@@ -12,4 +12,3 @@
 #define IDC_EDIT_CW 324
 
 #endif
-
