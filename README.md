@@ -9,3 +9,7 @@ Some of the source code and documents use GBK encoding.
 ## Sample outputs
 
 ![秀哉 vs 吴清源](./demo.gif)
+
+## Known issue:
+
+https://github.com/hex2010/sgf2gif/issues/6
