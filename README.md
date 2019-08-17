@@ -12,4 +12,4 @@ Some of the source code and documents use GBK encoding.
 
 ## Known issue:
 
-https://github.com/hex2010/sgf2gif/issues/6
+https://github.com/toy80/sgf2gif/issues/6
